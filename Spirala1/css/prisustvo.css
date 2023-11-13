@@ -1,0 +1,36 @@
+h1{
+    margin-left: 220px;
+    width: 1200px;
+}
+table,th,td{
+    border-collapse:collapse;
+    border: solid black;
+    height: 50px;
+    font-family: 'Times New Roman';
+    font-size: 15pt;
+  }
+  table{
+    width: 1200px;
+  }
+
+td,th{
+    vertical-align: top;
+    padding: 10px;
+    text-align: left;
+  }
+  #red{
+    width: 300px;
+  }
+  .zelena{
+    background-color: #50C878;
+  }
+  
+  .crvena{
+    background-color: #FF3333;
+  }
+  .bijela{
+    background-color: #FFFFFF;
+  }
+
+
+

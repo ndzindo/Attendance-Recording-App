@@ -1,0 +1,26 @@
+.scroll{
+    scroll-margin-top: 120px !important;
+}
+.menu{
+    top: 0;
+    width: 100%;
+    background-color: white;
+    margin-top: 0px;
+    display: block;
+    padding-top: 0% !important;
+}
+.menu-box{
+    width: fit-content;
+    display: inline-block ;
+    margin-left: 40px;
+    padding-top: 0%;
+    height: 50px;
+}
+.crvena:hover{
+    filter: brightness(50%);
+    transition: all 250ms ease;
+}
+.zelena:hover{
+    filter: brightness(50%);
+    transition: all 250ms ease;
+}

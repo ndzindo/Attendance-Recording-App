@@ -1,0 +1,117 @@
+
+
+@media only screen and (min-width: 860px) {
+   .menu{
+    position: sticky;
+    scroll-margin-top: 80px;
+   }
+  }
+
+
+  @media only screen and (max-width: 860px) {
+    .menu-box{
+        width: 100% !important;
+        margin-left: 40px;
+        padding-top: 0%;
+        height: 104px;
+       
+    }
+   }
+ 
+  .scroll{
+    scroll-margin-top: 120px !important;
+  }
+ 
+.odsijekNaziv{
+    font-size: 35px; 
+   
+}
+.odsijekGodina{
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.grid-container{
+   /* background-color: grey;*/
+    margin: auto;
+}
+.menu{
+    top: 0;
+    width: 100%;
+    background-color: white;
+    margin-top: 0px;
+    display: block;
+    padding-top: 0% !important;
+}
+.menu-box{
+    width: fit-content;
+    display: inline-block ;
+    margin-left: 40px;
+    padding-top: 0%;
+    height: 104px;
+   
+}
+.box{
+   text-align: center;
+   padding: 5px;
+}
+.title{
+    margin-left: -40px;
+
+}
+#ri{
+    top: 60px;
+}
+
+.grid-predmeti{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    gap: 10px;
+}
+
+.predmeti{
+    margin-left: 20px;
+}
+.odsijek{
+    min-height: 100px;
+    margin-left: 10px;
+}
+.rs_1, .bsc_1 ,.msc_1{
+    padding-left: 30px;
+}
+.rs_1, .bsc_1 ,.msc_1,.bsc_2, .msc_2{
+    padding-right: 5px;
+}
+ul{
+    list-style: none;
+    columns:auto;
+}
+
+.grid-predmeti > div {
+   border-color: rgb(33, 33, 33);
+   border:  0.5px;
+   border-style: solid;
+    border-radius: 4px;
+  }
+
+.redovni{
+    background-color: white;
+}
+
+.izborni{
+    background-color: powderblue;
+} 
+.nemauAkadem{
+    background-color: gray;
+}
+#ri{
+   /* background-color: red;*/
+    list-style: none;
+}
+
+
+
+
+ 
