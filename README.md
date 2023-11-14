@@ -1,6 +1,6 @@
 # Attendance Recording App
 
-An Attendance Recording App developed using Spiral mode with technologies: HTML, CSS, JavaScript, Node.js, APIs, and SQL.
+An Attendance Recording App developed using Spiral model with technologies: HTML, CSS, JavaScript, Node.js, APIs, and SQL.
 
 
 ## Tech Stack
