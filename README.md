@@ -1,15 +1,15 @@
 # Attendance Recording App
 
-An Attendance Recording App developed using Spiral model with technologies: HTML, CSS, JavaScript, Node.js, APIs, and SQL.
+An Attendance Recording App developed using Spiral model.
 
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-14-green?logo=node.js&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-MySQL-blueviolet?logo=mysql&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-blueviolet?logo=mysql&style=flat-square)
 
 ## Overview
 
